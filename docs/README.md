@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://ncustatic.ncuos.com/index/1570754776734.logo.png
-heroText: NCUHOME 前端风格指南
+heroText: NCUHOME 前端风格指南 CI
 tagline: For readability, robustness and high maintenance
 actionText: 开始阅读 →
 actionLink: /guide/

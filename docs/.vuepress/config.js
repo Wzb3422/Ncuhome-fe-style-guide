@@ -4,7 +4,7 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: 'https://ncustatic.ncuos.com/index/1570754776734.logo.png' }]
   ],
-  base: '/frontend-guide/',
+  base: '/Ncuhome-fe-style-guide/',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
