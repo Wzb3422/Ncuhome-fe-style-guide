@@ -24,10 +24,10 @@ module.exports = {
         title: 'React 代码风格',
         path: '/guide/react/'
       },
-      // {
-      //   title: 'Vue 代码风格',
-      //   path: '/guide/vue/'
-      // }
+      {
+        title: 'Vue 代码风格',
+        path: '/guide/vue/'
+      }
   ],
     editLinkText: 'Edit on GitHub',
     plugins: ['@vuepress/back-to-top'],
